@@ -599,7 +599,7 @@
         "codes": "PlatinumCard"
     },
     {
-        "name": "Nice Girl",
+        "name": "Star Piece",
         "type": "consumable",
         "max_quantity": 100,
         "img": "images/items/StarPiece.png",
