@@ -493,7 +493,7 @@
         "codes": "Cog"
     },
     {
-        "name": "StarKey",
+        "name": "Star Key",
         "type": "toggle",
         "img": "images/items/StarKey.png",
         "img_mods": "",
