@@ -1,0 +1,302 @@
+{
+    "shared_item_grid_horizontal": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "3, 3",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 49,
+                        "item_width": 49,
+                        "rows": [
+                            [
+                                "DiamondStar",
+                                "EmeraldStar",
+                                "GoldStar",
+                                "RubyStar",
+                                "SapphireStar",
+                                "GarnetStar",
+                                "CrystalStar"
+                            ],
+                            [
+                                "Goombella",
+                                "Koops",
+                                "Flurrie",
+                                "Yoshi",
+                                "Vivian",
+                                "Bobbery",
+                                "Mowz"
+                            ],
+                            [
+                                "Bootss",
+                                "Hammers",
+                                "StrangeSack",
+                                "PlaneCurse",
+                                "PaperCurse",
+                                "TubeCurse",
+                                "BoatCurse"
+                            ],
+                            [
+                                "BlackKey1",
+                                "BlackKey2",
+                                "BlackKey3",
+                                "BlackKey4",
+                                "fffff",
+                                "StarPiece",
+                                "ShineSprite"
+                            ],
+                            [
+                                "f"
+                            ],
+                            [
+                                "BlackKey1",
+                                "SunStone",
+                                "MoonStone",
+                                "CastleKey",
+                                "BlackKey2",
+                                "ContactLens"
+                            ],
+                            [
+                                "Necklace",
+                                "RedKey",
+                                "PuniOrb",
+                                "BlueKey",
+                                "BlimpTicket"
+                            ],
+                            [
+                                "DubiousPaper",
+                                "StorageKey1",
+                                "StorageKey2",
+                                "ChampsBelt"
+                            ],
+                            [
+                                "ShopKey",
+                                "BlackKey3",
+                                "SteepleKey1",
+                                "SteepleKey2",
+                                "Superbombomb",
+                                "TheLetterP",
+                                "OldLetter"
+                            ],
+                            [
+                                "ChuckolaCola",
+                                "SkullGem",
+                                "GrottoKey",
+                                "BlackKey4",
+                                "GateHandle",
+                                "WeddingRing",
+                                "TrainTicket"
+                            ],
+                            [
+                                "GalleyPot",
+                                "VitalPaper",
+                                "Briefcase",
+                                "GoldRing",
+                                "ShellEarrings",
+                                "Autograph"
+                            ],
+                            [
+                                "RaggedDiary",
+                                "Blanket",
+                                "StationKey1",
+                                "StationKey2",
+                                "ElevatorKey",
+                                "ffff",
+                                "GoldbobGuide"
+                            ],
+                            [
+                                "CardKey1",
+                                "CardKey2",
+                                "CardKey3",
+                                "CardKey4",
+                                "ElevatorKey1",
+                                "ElevatorKey2",
+                                "Cog"
+                            ],
+                            [
+                                "PalaceKey",
+                                "StarKey",
+                                "PalaceKey(RiddleTower)",
+                                "ffff",
+                                "ffff",
+                                "ffff"
+                            ],
+                            [
+                                "ffff",
+                                "ffff",
+                                "ffff",
+                                "ffff",
+                                "ffff",
+                                "ffff"
+                            ],
+                            [
+                                "BattleTrunks",
+                                "Box",
+                                "Cookbook",
+                                "HouseKey",
+                                "LotteryPick",
+                                "Package",
+                                "UpArrow",
+                            ],
+                            [
+                                "Present",
+                                "RoutingSlip",
+                                "WrestlingMag",
+                                "SpecialCard",
+                                "SilverCard",
+                                "GoldCard",
+                                "PlatinumCard"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "shared_item_grid_vertical": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "vertical",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 36,
+                        "item_width": 36,
+                        "rows": [
+                            [
+                                "timespinnerwheel",
+                                "timespinnerspindle",
+                                "timespinnergear1",
+                                "timespinnergear2",
+                                "timespinnergear3",
+                                "tablet"
+                            ],
+                            [
+                                "securitykeycarda",
+                                "securitykeycardb",
+                                "securitykeycardc",
+                                "securitykeycardd",
+                                "librarykeycardv",
+                                "elevatorkeycard"
+                            ],
+                            [
+                                "watermask",
+                                "gasmask",
+                                "talariaattachment",
+                                "succubushairpin",
+                                "lightwall",
+                                "celestialsash"
+                            ],
+                            [
+                                "timewornwarpbeacon",
+                                "modernwarpbeacon",
+                                "mysteriouswarpbeacon",
+                                "laseraccesa",
+                                "laseraccesi",
+                                "laseraccesm"
+                            ],
+                            [
+                                "twinpyramidkey",
+                                "soulscanner",
+                                "eternalbrooch",
+                                "goddessbrooch",
+                                "greedbrooch",
+                                "wyrmbrooch"
+                            ],
+                            [
+                                "meyef",
+                                "griffin",
+                                "merchantcrow",
+                                "kobo",
+                                "sprite",
+                                "demon"
+                            ],
+                            [
+                                "fireorb",
+                                "infernalflames",
+                                "pyroring",
+                                "plasmaorb",
+                                "plasmageyser",
+                                "royalring"
+                            ],
+                            [
+                                "blueorb",
+                                "aurablast",
+                                "bleakring",
+                                "bladeorb",
+                                "colossalblade",
+                                "scythering"
+                            ],
+                            [
+                                "ironorb",
+                                "colossalhammer",
+                                "shieldring",
+                                "iceorb",
+                                "frozenspires",
+                                "iciclering"
+                            ],
+                            [
+                                "windorb",
+                                "stormeye",
+                                "tailwindring",
+                                "gunorb",
+                                "armcannon",
+                                "economizerring"
+                            ],
+                            [
+                                "umbraorb",
+                                "darkflames",
+                                "duskring",
+                                "empireorb",
+                                "auraserpent",
+                                "staroflachiem"
+                            ],
+                            [
+                                "eyeorb",
+                                "chaosblades",
+                                "oculusring",
+                                "bloodorb",
+                                "crimsonvortex",
+                                "sanguinering"
+                            ],
+                            [
+                                "forbiddentome",
+                                "djinninferno",
+                                "sunring",
+                                "shatteredorb",
+                                "bombardment",
+                                "silencering"
+                            ],
+                            [
+                                "netherorb",
+                                "corruption",
+                                "shadowseal",
+                                "radiantorb",
+                                "lightwall",
+                                "hopering"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
