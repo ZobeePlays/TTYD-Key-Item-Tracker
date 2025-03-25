@@ -1,0 +1,34 @@
+{
+    "settings_popup": {
+        "type": "array",
+        "margin": "5",
+        "content": [
+            {
+                "type": "group",
+                "header": "Show locations not currently implemented?",
+                "description": "Enable/Disable the automatic fill of the settings panel from for connected Slot_Data",
+                "header_background": "#3e4b57",
+                "content": [
+                    {
+                        "type": "item",
+                        "margin": "5,1,5,5",
+                        "item": "HiddenOn"
+                    }
+                ]
+            },
+            {
+                "type": "group",
+                "header": "message me on discord if you wanna help!",
+                "description": "Enable/Disable the automatic fill of the settings panel from for connected Slot_Data",
+                "header_background": "#3e4b57",
+                "content": [
+                    {
+                        "type": "item",
+                        "margin": "5,1,5,5",
+                        "item": "retro_caves"
+                    }
+                ]
+            }
+        ]
+    }
+}
