@@ -1,26 +1,30 @@
 {
     "name": "TTYD Key Item Tracker",
     "game_name": "TTYD",
-    "package_version": "0.1",
+    "package_version": "0.8",
     "package_uid": "ttyd_ap",
     "author": "ZobeePlays",
     "variants": {
         "OGSprites": {
-            "display_name": "OG Sprites",
+            "display_name": "Items Only - OG Sprites",
             "flags": ["ap"]
-        },
+    },
         "var_DolphinHDTexturePack": {
-            "display_name": "Dolphin HD Texture Pack",
+            "display_name": "Items Only - Dolphin HD Texture Pack",
             "flags": ["ap"]
     },
         "var_SwitchRemakeWithOutlines": {
-            "display_name": "Switch Remake With Outlines",
+            "display_name": "Items Only - Switch Remake With Outlines",
             "flags": ["ap"]
     },
         "var_SwitchRemakeNoOutlines": {
-            "display_name": "Switch Remake No Outlines",
+            "display_name": "Items Only - Switch Remake No Outlines",
             "flags": ["ap"]
     },
+        "var_SwitchRemakeNoOutlinesWithMap": {
+            "display_name": "Map Tracker - Switch Remake No Outlines",
+            "flags": ["ap"]
+    },        
     },
     "min_poptracker_version": "0.27.0"
 }
